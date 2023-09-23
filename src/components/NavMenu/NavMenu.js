@@ -8,7 +8,7 @@ export default class NavMenu extends Component {
                 <div className='nav-menu-brand'><i className='g72-swoosh'></i></div>
                 <div className='nav-menu'>
                     <ul className='nav-ul'>
-                        <li className='nav-item'>New Releases</li>
+                        <li className='nav-item'> Releases</li>
                         <li className='nav-item'>Men</li>
                         <li className='nav-item'>Women</li>
                         <li className='nav-item'>Kids</li>

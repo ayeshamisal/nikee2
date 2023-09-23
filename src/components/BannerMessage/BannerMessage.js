@@ -6,7 +6,7 @@ export default class BannerMessage extends Component {
         return (
             <div className='banner-warp'>
                 <div className='banner-message'>
-                    <span className='message'>COVID-19: Information about Nike stores and deliveries. <a className='message__a' href="#">View here.</a></span>
+                   
                 </div>
             </div>
         )
